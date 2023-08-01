@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Tim, and I'm a product leader and polygot software engineer based in London, UK 🇬🇧
+I'm Tim, and I'm a product leader and polyglot software engineer based in London, UK 🇬🇧
 
 I work as a Product Manager at GitHub, looking after migration tools. We're building tools to make it easy and stress-free for customers to move between GitHub products and from competitors to GitHub.
 
