@@ -2,7 +2,7 @@
 
 I'm Tim, and I'm a product leader and polyglot software engineer based in London, UK 🇬🇧
 
-Today, I'm a Product Manager at GitHub working on Copilot. We're building a conversational, personalised assistant to make developers happier and more productive.
+Today, __I'm a Product Manager at GitHub working on GitHub Copilot__. We're building a conversational, personalised assistant to make developers happier and more productive.
 
 In my spare time, I love to code, whether that's building [cool products](https://foreigncurrencysavings.co.uk/) or hacking on open-source projects.
 
